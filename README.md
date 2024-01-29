@@ -20,9 +20,3 @@ Here are some ideas to get you started:
 
 -->
 
-# 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=HowzayCalderon&theme=radical&hide_border=true)<br/>
-
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
